@@ -1,0 +1,1 @@
+void setPermissions(char mode[]);
